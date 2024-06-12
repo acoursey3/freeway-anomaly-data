@@ -17,7 +17,7 @@ There are 196 nodes, across the 4 lanes and 49 milemarkers. Data was recorded us
 
 ## Using the Data
 
-See the `Demo.ipynb` for a tutorial on how to load the data from the `nashville_freeway_anomaly.csv` file. This notebook requires the following Python packages:
+See the [Demo.ipynb](./Demo.ipynb) for a tutorial on how to load the data from the [nashville_freeway_anomaly.csv](./nashville_freeway_anomaly.csv) file. This notebook requires the following Python packages:
 
 - numpy
 - pandas
