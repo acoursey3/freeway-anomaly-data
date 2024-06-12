@@ -4,14 +4,14 @@ Early and accurate detection of anomalous events on the freeway, such as acciden
 ## Dataset Description
 
 The dataset consists of the following features.
-- time_unix: the time the measurement was taken.
-- milemarker: location of sensor on the interstate. This comes from the Tennessee Department of Transportation's coordination system and is consistent with what is labeled on the road.
-- lane: the lane number. There are four lanes, where lane 1 is the left-most lane.
-- speed: 30-second average speed of the vehicles passing through the area.
-- occupancy: 30-second average percentage of time that the detection zone of the radar sensor is occupied by a vehicle.
-- volume: 30-second average number of vehicles passing through the area.
-- crash_record: whether a crash was officially reported at this timestamp.
-- human_label: human anomaly label for this timestamp.
+- **time_unix**: the time the measurement was taken.
+- **milemarker**: location of sensor on the interstate. This comes from the Tennessee Department of Transportation's coordination system and is consistent with what is labeled on the road.
+- **lane**: the lane number. There are four lanes, where lane 1 is the left-most lane.
+- **speed**: 30-second average speed of the vehicles passing through the area.
+- **occupancy**: 30-second average percentage of time that the detection zone of the radar sensor is occupied by a vehicle.
+- **volume**: 30-second average number of vehicles passing through the area.
+- **crash_record**: whether a crash was officially reported at this timestamp.
+- **human_label**: human anomaly label for this timestamp.
 
 There are 196 nodes, across the 4 lanes and 49 milemarkers. Data was recorded using a Radar Detection System (RDS) sensor every 30 seconds weekday mornings (4:00 AM - 12:00 PM) in October, 2023. There are 3,763,200 data points.
 
