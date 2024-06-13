@@ -48,10 +48,7 @@ If you find this dataset useful for your research, please consider using the fol
 ```
 
 ## License
-Shield: [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
-
-This work is licensed under a
-[Creative Commons Attribution-NonCommercial 4.0 International License][cc-by-nc].
+See the `LICENSE` file for the license. Note that the supplementary materials of the paper suggest this dataset is licensed under a CC BY-NC license. Upon further consideration, we have chosen a different license and the materials will be updated appropriately.
 
 [![CC BY-NC 4.0][cc-by-nc-image]][cc-by-nc]
 
