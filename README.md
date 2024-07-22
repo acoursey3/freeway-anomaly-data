@@ -29,7 +29,7 @@ See the [Demo.ipynb](./Demo.ipynb) for a tutorial on how to load the data from t
 
 ### Paper Link
 
-LINK COMING SOON
+- [arXiv](https://arxiv.org/abs/2406.15283)
 
 ### Interactive Website
 
@@ -44,7 +44,13 @@ See https://github.com/acoursey3/freeway-anomaly-code/ for our anomaly detection
 If you find this dataset useful for your research, please consider using the following citation!
 
 ```
-@citation soon
+@misc{coursey2024ftaed,
+  title={FT-AED: Benchmark Dataset for Early Freeway Traffic Anomalous Event Detection},
+  author={Austin Coursey and Junyi Ji and Marcos Quinones-Grueiro and William Barbour and Yuhang Zhang and Tyler Derr and Gautam Biswas and Daniel B. Work},
+  year={2024},
+  eprint={2406.15283},
+  archivePrefix={arXiv},
+}
 ```
 
 ## License
