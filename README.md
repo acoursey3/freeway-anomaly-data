@@ -27,6 +27,10 @@ See the [Demo.ipynb](./Demo.ipynb) for a tutorial on how to load the data from t
 
 ## Additional Resources
 
+### More Data
+
+To address issues with seasonality in the data, we have processed and released another 11 months of data! That data is hosted on a [Box Link](https://vanderbilt.box.com/s/f2hs7pvrivdzgzklui31uvutwggbuttz). So far, we have added 1 full week from each month. We are actively processing the rest of the data, then we will run our smoothing algorithm to handle missing data. We are also working on obtaining and processing the crash event logs for this time frame.
+
 ### Paper Link
 
 - [arXiv](https://arxiv.org/abs/2406.15283)
