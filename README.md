@@ -27,9 +27,13 @@ See the [Demo.ipynb](./Demo.ipynb) for a tutorial on how to load the data from t
 
 ## Additional Resources
 
-### More Data
+### Supplementary Data
 
 To address issues with seasonality in the data, we have processed and released another 11 months of data! That data is hosted on a [Box Link](https://vanderbilt.box.com/s/f2hs7pvrivdzgzklui31uvutwggbuttz). So far, we have added 1 full week from each month. We are actively processing the rest of the data, then we will run our smoothing algorithm to handle missing data. We are also working on obtaining and processing the crash event logs for this time frame.
+
+This Box folder includes the raw event logs corresponding to all data that can provide additional context about incidents.
+
+It also includes a CSV with timestamps where we expect crashes to have actually occurred which may be useful for defining true positives. 
 
 ### Paper Link
 
