@@ -52,13 +52,13 @@ See https://github.com/acoursey3/freeway-anomaly-code/ for our anomaly detection
 If you find this dataset useful for your research, please consider using the following citation!
 
 ```
-@inproceedings{Coursey2024,
- author = {Coursey, Austin and Ji, Junyi and Quinones Grueiro, Marcos and Barbour, William and Zhang, Yuhang and Derr, Tyler and Biswas, Gautam and Work, Daniel},
- booktitle = {Advances in Neural Information Processing Systems},
- pages = {15526--15549},
- title = {{FT-AED}: Benchmark Dataset for Early Freeway Traffic Anomalous Event Detection},
- volume = {37},
- year = {2024}
+@article{coursey2024ft,
+  title={FT-AED: Benchmark dataset for early freeway traffic anomalous event detection},
+  author={Coursey, Austin and Ji, Junyi and Quinones Grueiro, Marcos and Barbour, William and Zhang, Yuhang and Derr, Tyler and Biswas, Gautam and Work, Daniel},
+  journal={Advances in Neural Information Processing Systems},
+  volume={37},
+  pages={15526--15549},
+  year={2024}
 }
 ```
 
